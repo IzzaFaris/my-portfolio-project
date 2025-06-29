@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>My portfolio</title>
+  <h1>Izza Faris</h1>
+  
+</head>
+<img src="https://cdn.vectorstock.com/i/1000x1000/71/85/black-niqab-style-muslim-woman-vector-20077185.webp" alt="description" height="150">
+
+<h1>Summary</h1>
+I am a dedicated cybersecurity student with a strong foundation in network security,ethical hecking and threat analysis.
+<hr>
+<h1>Education</h1>
+<li>completed O/L</li>
+<li>completed A/L</li>
+<li>completed Diploma in IT</li>
+<li>Now studying cybersecurity</li>
+<hr>
+<h1>skills</h1>
+<ol>
+<li>Good in sports⭐️⭐️⭐️</li>
+<li>Good in cocurrecular activities⭐️⭐️⭐️</li>
+<li>Good in baking⭐️⭐️⭐️</li>
+</ol>
+<hr>
+<h1>Awards and Certifications</h1>
+Gold Medalist in QUIRATH
+<hr>
+<h1>Others</h1>
+<li><a href="./hobbies.html">My Hobbies</a></li>
+<li><a href="./My contect.html">My Contect</a></li>
+<hr>
+<h2>All Details Reserved About IZZA FARIS</h2>
+
+
+
+<body>
